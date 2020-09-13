@@ -1,4 +1,4 @@
-<h1><b> Construção de progressive web app com os alunos do 2º do curso técnico de informática do Campus Araguaina - IFTO </b></h1>
+<h1><b> Construção de progressive web app com os alunos do 2º ano do curso técnico de informática do Campus Araguaina - IFTO </b></h1>
 
 Aluno adicione seu nome de usuario no github, seu nome completo e o link de sua conta no github, seguindo o modelo abaixo
 
